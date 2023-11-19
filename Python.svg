@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_3);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_2);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" x1="-1218.27" y1="1200.93" x2="-1217.96" y2="1200.62" gradientTransform="translate(2253039.4 2225925.1) scale(1849.27 -1853.39)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#387eb8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" x1="-1218.43" y1="1201.07" x2="-1218.1" y2="1200.76" gradientTransform="translate(2253683.5 2226552.65) scale(1849.27 -1853.39)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe052"/>
+      <stop offset="1" stop-color="#ffc331"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="m595.8,20c-296.02,0-277.54,128.37-277.54,128.37l.33,133h282.49v39.93H206.39S16.97,299.82,16.97,598.5s165.33,288.1,165.33,288.1h98.67v-138.6s-5.32-165.33,162.69-165.33h280.18s157.41,2.54,157.41-152.13v-255.75s23.91-154.78-285.45-154.78Zm-155.76,89.44c28.04-.03,50.79,22.69,50.82,50.73,0,.03,0,.06,0,.09.03,28.04-22.69,50.79-50.73,50.82-.03,0-.06,0-.09,0-28.04.03-50.79-22.69-50.82-50.73,0-.03,0-.06,0-.09-.03-28.04,22.69-50.79,50.73-50.82.03,0,.06,0,.09,0Z"/>
+  <path class="cls-2" d="m604.21,1180c296.02,0,277.54-128.37,277.54-128.37l-.33-132.99h-282.49v-39.93h394.69s189.42,21.48,189.42-277.21-165.33-288.09-165.33-288.09h-98.67v138.6s5.32,165.33-162.69,165.33h-280.18s-157.41-2.54-157.41,152.14v255.75s-23.9,154.77,285.45,154.77h0Zm155.76-89.43c-28.04.03-50.79-22.69-50.82-50.73v-.09c-.03-28.04,22.68-50.8,50.72-50.82h.1c28.04-.03,50.79,22.69,50.82,50.73v.09c.03,28.04-22.69,50.79-50.73,50.82h-.09Z"/>
+</svg>
